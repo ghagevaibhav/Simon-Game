@@ -1,6 +1,8 @@
 # Simon-Game
 
-The Web Preview is below, 
+To play, first click any of the button on the keyboard, and then click on the color that lights up. After each successful round, the game will add another color to the sequence. Simon Says is great for working out your ability to quickly learn and memorize new information. Improving your memory and recall is useful for all school subjects. See for yourself!
+
+### The Web Preview is below, 
 Starting Page:
 ![image](https://user-images.githubusercontent.com/78686643/175551301-1ac8c922-103b-4d4d-a0e8-627bf856fd27.png)
 Level 1:
